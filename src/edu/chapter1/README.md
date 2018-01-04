@@ -1,4 +1,4 @@
-# Self Test Questions
+# Chapter 1 - Self Test Questions
 **What is bytecode and why is it important to Java's use for Internet programming?**
 
 Bytecode is an optimized set of instructions for use by the JVM - it is machine independent and the specific implementation of the JVM for different hardware/OS implementations knows how to translate that bytecode efficiently to machine code for execution.
